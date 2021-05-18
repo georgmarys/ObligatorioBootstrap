@@ -1,0 +1,14 @@
+.nav-link{
+    color: black;
+}
+
+.row{
+    --bs-gutter-x: 1rem;
+}
+
+.card img{
+    width: 98%;
+    margin: 0 auto;
+    height: 15rem;
+}
+
